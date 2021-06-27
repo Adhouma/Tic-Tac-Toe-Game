@@ -2,7 +2,7 @@
 
 Tic Tac Toe Game using Java
 
-![First image](https://github.com/Adhouma/Tic-Tac-Toe-Game/blob/main/images/first-image.PNG?raw=true "Title" | width=100)
+![First image](https://github.com/Adhouma/Tic-Tac-Toe-Game/blob/main/images/first-image.PNG?raw=true "Title"){:height="50%" width="50%"}
 
 ![Second image](https://github.com/Adhouma/Tic-Tac-Toe-Game/blob/main/images/second-image.PNG?raw=true "Title")
 
