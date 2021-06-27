@@ -2,4 +2,4 @@
 
 Tic Tac Toe Game using Java
 
-![Tic Tac Toe Game description](https://github.com/Adhouma/Tic-Tac-Toe-Game/blob/main/first-image.png?raw=true)
+![Alt text](https://github.com/Adhouma/Tic-Tac-Toe-Game/blob/main/images/first-image.PNG?raw=true "Title")
